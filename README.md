@@ -1,3 +1,3 @@
 # flaskProject1
 
-Creating flask project
+Creating flask project.
